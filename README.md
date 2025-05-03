@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mingdedi-internetsearch-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-mingdedi-internetsearch-mcp-server)
+
 # Internetsearch-mcp-server
 
 - [English README](README.en.md)
